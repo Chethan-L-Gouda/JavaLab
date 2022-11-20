@@ -13,6 +13,6 @@ public class TeachStf extends Staff {
     }
     void display(){
         super.display();
-        System.out.println("\nDomain : "+Domain+"\nPublication : "+Pblic);
+        System.out.println("Domain : "+Domain+"\nPublication : "+Pblic+"\n");
     }
 }
