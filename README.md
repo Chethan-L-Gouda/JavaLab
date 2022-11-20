@@ -26,3 +26,6 @@ This git repository consist of Java Lab Program according to 3rd Semester [21CSL
  - Program 5:
    - [Demonstrate Overloading](DmMCOvrl.java) : Demonstrate Consruction and Method Overloading.
      - [MCOverloading](MCOvrlding.java) : Class with Overloaded Constructor an Method.
+ - Program 6:
+   - [Convert](CnvrtInt.java) : Uses switch case to provide menu for Basic Convertion.
+     - [Conveter Class](Cnvrter.java) : Contains methods for convertion.
