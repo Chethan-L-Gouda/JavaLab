@@ -11,6 +11,6 @@ public class TechStf extends Staff {
     }
     void display(){
         super.display();
-        System.out.println("\nSkills : "+skills);
+        System.out.println("Skills : "+skills+"\n");
     }
 }

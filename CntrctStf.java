@@ -11,6 +11,6 @@ public class CntrctStf extends Staff{
     }
     void display(){
         super.display();
-        System.out.println("\nPeriod : "+period);
+        System.out.println("Period : "+period+"\n");
     }
 }
