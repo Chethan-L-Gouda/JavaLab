@@ -13,6 +13,8 @@ public class StdDet {
             std[i] = new Stud();
             std[i].read();
         }
+        System.out.println();
+        System.out.println("-----------------------------");
         System.out.println("USN\t\tName\t\tBranch\tPhone");
         for(int i=0;i<n;i++){
             std[i].write();

@@ -2,9 +2,9 @@ package CS013;
 
 import java.util.Scanner;
 
-public class EmpDet {
+public class StaffDet {
     Scanner sc = new Scanner(System.in);
-    EmpDet(){
+    StaffDet(){
         int nTeach,nTech,nCont;
         int cTeach=0,cTech=0,cCont=0,i,ch;
         boolean compSts=false;
