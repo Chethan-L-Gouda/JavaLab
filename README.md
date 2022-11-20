@@ -20,9 +20,9 @@ This git repository consist of Java Lab Program according to 3rd Semester [21CSL
  - Program 4:
    - [Staff Details](StaffDet.java) : Takes details on staff and displays it.
      - [Staff class](Staff.java) : Class that stores and displays staff details.
-     - [Teaching Staff class](TeachStf.java) : Class to store and display Teaching staff Information.
-     - [Technical Staff class](TechStf.java) : Class to store and display Technical staff Information.
-     - [Contract Staff class](CntrctStf.java) : Class to store and display Contract staff Information.
+     - [Teaching Staff class](TeachStf.java) : Sub Class of Staff Class to store and display Teaching staff Information.
+     - [Technical Staff class](TechStf.java) :Sub Class of Staff Class to store and display Technical staff Information.
+     - [Contract Staff class](CntrctStf.java) : Sub Class of Staff Class to store and display Contract staff Information.
  - Program 5:
    - [Demonstrate Overloading](DmMCOvrl.java) : Demonstrate Consruction and Method Overloading.
      - [MCOverloading](MCOvrlding.java) : Class with Overloaded Constructor an Method.
