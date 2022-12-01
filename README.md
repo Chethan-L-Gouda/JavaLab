@@ -6,7 +6,7 @@ This git repository consist of Java Lab Program according to 3rd Semester [21CSL
 
 ## How to Use
  - Step 1: Clone the repository.
- - Step 2: Create a *.java file with the main fuction.
+ - Step 2: Create a *.java file with the main function.
  - Step 3: Create an object of the Program Class.
  - Step 4: Execute the main function.
 
@@ -26,8 +26,8 @@ This git repository consist of Java Lab Program according to 3rd Semester [21CSL
      - [Technical Staff class](TechStf.java) :Sub Class of Staff Class to store and display Technical staff Information.
      - [Contract Staff class](CntrctStf.java) : Sub Class of Staff Class to store and display Contract staff Information.
  - Program 5:
-   - [Demonstrate Overloading](DmMCOvrl.java) : Demonstrate Consruction and Method Overloading.
-     - [MCOverloading](MCOvrlding.java) : Class with Overloaded Constructor an Method.
+   - [Demonstrate Overloading](DmMCOvrl.java) : Demonstrate Construction and Method Overloading.
+     - [MCOverloading](MCOvrlding.java) : Class with Overloaded Constructor and Method.
  - Program 6:
-   - [Convert](CnvrtInt.java) : Uses switch case to provide menu for Basic Convertion.
-     - [Conveter Class](Cnvrter.java) : Contains methods for convertion.
+   - [Convert](CnvrtInt.java) : Uses switch case to provide menu for Basic Conversion.
+     - [Converter Class](Cnvrter.java) : Contains methods for conversion.
