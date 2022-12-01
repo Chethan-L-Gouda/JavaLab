@@ -12,8 +12,10 @@ This git repository consist of Java Lab Program according to 3rd Semester [21CSL
 
 ## List of Program Classes.
 
- - Program 1 : [Quadratic Equation](Quad.java) >>finds the roots of Quadratic Equation.
- - Program 2 : [Student Details](StdDet.java) >> Take Student Details and Display them.
+ - Program 1 : 
+   - [Quadratic Equation](Quad.java) >>finds the roots of Quadratic Equation.
+ - Program 2 :
+   - [Student Details](StdDet.java) >> Take Student Details and Display them.
  - Program 3 : 
    - [Prime Number](PrmNum.java) : To find whether a Number is prime number or not.
    - [Simple Calculator](SimCal.java) : Basic calculator using switch case.
