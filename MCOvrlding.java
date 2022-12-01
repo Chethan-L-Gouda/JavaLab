@@ -7,7 +7,7 @@ public class MCOvrlding {
     MCOvrlding(){
         System.out.println("Enter name : ");
         Name = sc.nextLine();
-
+        System.out.println("Hello,"+Name);
     }
     MCOvrlding(String N){
         this.Name=N;
